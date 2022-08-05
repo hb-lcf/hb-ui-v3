@@ -1,0 +1,93 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1658350167633') format('truetype');
+}
+
+[class*='hb-icon-'] {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hb-icon-Arrow-down:before {
+  content: "\e60f";
+}
+
+.hb-icon-Arrow-up:before {
+  content: "\e610";
+}
+
+.hb-icon-a-Chevron-Left2:before {
+  content: "\e611";
+}
+
+.hb-icon-Chevron-down:before {
+  content: "\e612";
+}
+
+.hb-icon-Chevron-up:before {
+  content: "\e613";
+}
+
+.hb-icon-a-Chevron-Right2:before {
+  content: "\e614";
+}
+
+.hb-icon-CheckMark:before {
+  content: "\e615";
+}
+
+.hb-icon-Chevron-Right:before {
+  content: "\e616";
+}
+
+.hb-icon-Eye:before {
+  content: "\e617";
+}
+
+.hb-icon-CloseDefault:before {
+  content: "\e618";
+}
+
+.hb-icon-Download:before {
+  content: "\e619";
+}
+
+.hb-icon-More:before {
+  content: "\e61a";
+}
+
+.hb-icon-EyeInvisible:before {
+  content: "\e61b";
+}
+
+.hb-icon-Redo:before {
+  content: "\e61c";
+}
+
+.hb-icon-Plus-Rectangle:before {
+  content: "\e61d";
+}
+
+.hb-icon-Upload:before {
+  content: "\e61e";
+}
+
+.hb-icon-Search-20:before {
+  content: "\e61f";
+}
+
+.hb-icon-Moon-Star:before {
+  content: "\e620";
+}
+
+.hb-icon-Sun:before {
+  content: "\e621";
+}
+
+.hb-icon-Chevron-Left:before {
+  content: "\e622";
+}
+
